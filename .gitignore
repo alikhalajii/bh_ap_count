@@ -1,6 +1,4 @@
-.gitignore
-projects_directory
-nl_stadt_mapper.xlsx
-nl_sheets.xlsx
+projects*
+nl_s*
 *.xlsx
 *.xls
